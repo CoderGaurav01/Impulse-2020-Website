@@ -2,8 +2,8 @@ body{
 	background-color:#011638;
 }
 .logo{
-	width: 30px;
-	height: 30px;
+	width: auto;
+	height: 36px;
 	overflow: hidden;
 }
 .logo_text{

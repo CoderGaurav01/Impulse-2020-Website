@@ -142,8 +142,8 @@ body {
   background-color: #0d3c79;
 }
 .logo {
-  width: 30px;
-  height: 30px;
-  overflow: hidden;
+  width: auto;
+	height: 36px;
+	overflow: hidden;
 }
 /*# sourceMappingURL=style.css.map */
