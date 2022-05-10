@@ -271,6 +271,12 @@ body {
     filter: grayscale(1);
 }
 
+.carousel-align {
+    float: left;
+    display: inline-block;
+    width: 40%;
+}
+
 .hc {
     position: relative;
     height: auto;
